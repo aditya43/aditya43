@@ -2,7 +2,7 @@
     <a href="https://github.com/aditya43">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=aditya43&show_icons=true&hide=prs,issues,contribs&theme=buefy" alt="Aditya Hajare's github stats" />
     </a>
-    <a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy&hide=css,html" /></a>
+    <a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy" /></a>
 </div>
 <br><br>
 <div align="center">

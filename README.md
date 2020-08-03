@@ -1,7 +1,12 @@
-### Hi there 👋
-
-![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=aditya43&layout=compact&theme=buefy)
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya43&show_icons=true&hide=prs,issues,contribs&theme=buefy)
+<br>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=aditya43&layout=compact&theme=buefy)
+
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)
+
+<i>Feel free to reach me on:</i><br>
+<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/aditya43" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 
 <!--
 **aditya43/aditya43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

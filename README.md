@@ -19,7 +19,7 @@
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/postgre.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/mongo.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/redis.svg"></code>
-    <code><img width="60px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/serverless.svg"></code>
+    <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/serverless.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/git.svg"></code>
 </div>
 <br><br>

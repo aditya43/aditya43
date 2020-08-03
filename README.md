@@ -10,7 +10,7 @@
     <h4><i>Technical Skills</i></h4>
     <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/golang.svg"></code>
     <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/javascript.svg"></code>
-    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/nodejs.svg"></code>
+    <code><img width="50px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/nodejs.svg"></code>
     <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/docker.svg"></code>
     <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/aws.svg"></code>
     <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/kubernetes.svg"></code>

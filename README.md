@@ -11,7 +11,7 @@
 </div>
 <br><br>
 <div align="center">
-    <b>Feel free to reach me on</b><br>
+    <h2>Feel free to reach me on</h2><br>
     <a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/aditya43" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 </div>

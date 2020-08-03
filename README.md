@@ -6,8 +6,9 @@
     <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=aditya43&theme=buefy&layout=compact" alt="Aditya Hajare's github stats" />
     </a>
 </div>
+<br><br>
 <div align="center">
-    <b>Feel free to reach me on: </b>
+    <b>Feel free to reach me on</b><br>
     <a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/aditya43" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 </div>

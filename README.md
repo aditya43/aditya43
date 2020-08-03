@@ -7,7 +7,7 @@
 </div>
 <br><br>
 <div align="center">
-    <h4>Tech Stack</h4>
+    <h2>Tech Stack</h2>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/golang.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/nodejs.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/javascript.svg"></code>

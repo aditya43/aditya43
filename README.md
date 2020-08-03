@@ -7,7 +7,7 @@
 <br><br>
 <div align="center">
     <h2>Technical Stack</h2>
-    <code><img width="70px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/golang.svg"></code>
+    <code><a href="https://github.com/aditya43" alt="Go Programming Language"><img width="70px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/golang.svg"></a></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/nodejs.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/javascript.svg"></code>
     <code><img width="40px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/docker.svg"></code>

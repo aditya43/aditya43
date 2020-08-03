@@ -7,6 +7,17 @@
 </div>
 <br><br>
 <div align="center">
+    <h4><i>Programming Languages and Tools</i></h4>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/golang.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/javascript.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/nodejs.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/docker.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/aws.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/kubernetes.svg"></code>
+    <code><img width="30px" src="https://raw.githubusercontent.com/aditya43/aditya43/master/assets/git.svg"></code>
+</div>
+<br><br>
+<div align="center">
     <b>Feel free to reach me on</b><br>
     <a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/aditya43" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>

@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monzo&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monero&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=080808">&nbsp;
@@ -34,27 +34,13 @@
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=080808">
-    <img src="https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/Gotest-informational?style=for-the-badge&logo=goodreads&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logo=mocha&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/Gotest-informational?style=for-the-badge&logo=goodreads&color=080808">
 </div>
 <br><br>
 <div align="center">
-    <h2>Feel free to reach me on</h2><br>
-    <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+    <h2>🤝 You can connect with me on 🤝</h2><br>
+    <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
-<!--
-**aditya43/aditya43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

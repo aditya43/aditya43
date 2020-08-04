@@ -15,7 +15,7 @@
 <br><br>
 <div align="center">
     <h2>Feel free to reach me on</h2><br>
-    <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+    <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <!--
 **aditya43/aditya43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

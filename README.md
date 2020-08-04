@@ -10,6 +10,7 @@
 <br><br>
 <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2><br>
+    <a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=080808">&nbsp;
@@ -38,6 +39,7 @@
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=080808">
+    </a>
 </div>
 <br><br>
 <div align="center">

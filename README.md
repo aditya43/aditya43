@@ -31,13 +31,13 @@
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logo=mocha&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Gotest-informational?style=for-the-badge&logo=goodreads&color=080808">
+    <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=080808">
 </div>
 <br><br>
 <div align="center">

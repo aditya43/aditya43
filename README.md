@@ -1,4 +1,7 @@
 <div align="center">
+    <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/aditya-hajare">Aditya Hajare</a></h2>
+</div>
+<div align="center">
     <a href="https://github.com/aditya43">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=aditya43&show_icons=true&hide=issues&theme=buefy" alt="Aditya Hajare's github stats" />
     </a>
@@ -12,8 +15,7 @@
 <br><br>
 <div align="center">
     <h2>Feel free to reach me on</h2><br>
-    <a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/aditya43" target="_blank"><img src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+    <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <!--
 **aditya43/aditya43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

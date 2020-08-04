@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=080808">&nbsp;
-    <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=salesforce&color=080808">&nbsp;
+    <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=080808">&nbsp;
     <img src="https://img.shields.io/badge/Serverless-informational?style=for-the-badge&logo=serverless&color=080808">&nbsp;
@@ -41,6 +41,6 @@
 </div>
 <br><br>
 <div align="center">
-    <h2>🤝 You can connect with me on 🤝</h2><br>
+    <h2>🤝 Connect With Me 🤝</h2><br>
     <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>

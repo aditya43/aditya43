@@ -7,7 +7,7 @@
     </a>
     <a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy" /></a>
 </div>
-<br><br>
+<br>
 <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677"></a></p>
 </div>
-<br><br>
 <div align="center">
     <h2>🤝 Connect With Me 🤝</h2>
     <p><a href="https://github.com/aditya43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/aditya-hajare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>

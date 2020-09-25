@@ -31,13 +31,18 @@
     <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monero&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/DynamoDB-informational?style=for-the-badge&logo=dailymotion&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logo=mocha&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logo=gitter&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/BDD-informational?style=for-the-badge&logo=buffer&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/DDD-informational?style=for-the-badge&logo=codefactor&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/Chai-informational?style=for-the-badge&logo=chocolatey&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Gotest-informational?style=for-the-badge&logo=goodreads&color=4A3677">
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=4A3677">&nbsp;

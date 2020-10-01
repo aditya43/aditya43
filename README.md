@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=anaconda&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-tensorflow-informational?style=for-the-badge&logo=tensorflow&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">&nbsp;

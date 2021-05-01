@@ -12,7 +12,7 @@
     <h2>⚡ My Technical Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=google&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=goodreads&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
@@ -47,9 +47,8 @@
     <img src="https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Chai-informational?style=for-the-badge&logo=chocolatey&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/Gotest-informational?style=for-the-badge&logo=goodreads&color=4A3677">
-    <img src="https://img.shields.io/badge/-Travis%20CI-informational?style=for-the-badge&logo=travis&color=4A3677">
-    <img src="https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&color=4A3677">
+    <img src="https://img.shields.io/badge/-Travis%20CI-informational?style=for-the-badge&logo=travis&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677">&nbsp; 

@@ -12,12 +12,8 @@
     <h2>⚡ My Technical Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=anaconda&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-tensorflow-informational?style=for-the-badge&logo=tensorflow&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=google&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">&nbsp;
@@ -32,8 +28,10 @@
     <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/MSSQL-informational?style=for-the-badge&logo=sqlite&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typo3&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monero&color=4A3677">&nbsp;
@@ -54,7 +52,12 @@
     <img src="https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&color=4A3677">
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677"></a></p>
+    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677">&nbsp; 
+    <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=anaconda&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-tensorflow-informational?style=for-the-badge&logo=tensorflow&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677"></a></p>
 </div>
 <br>
 <div align="center">

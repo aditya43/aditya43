@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typo3&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;    
+    <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;                                                   <img src="https://img.shields.io/badge/-BONGO-informational?style=for-the-badge&logo=monogram&color=4A3677">&nbsp;                                               <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=4A3677">&nbsp;
@@ -55,7 +56,8 @@
     <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=anaconda&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-tensorflow-informational?style=for-the-badge&logo=tensorflow&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677"></a></p>
+    <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Prometheus-informational?style=for-the-badge&logo=prometheus&color=4A3677"></a></p>
 </div>
 <br>
 <div align="center">

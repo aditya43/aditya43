@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=for-the-badge&color=4A3677&logo=Google%20Cloud">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=Nodemon&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-ts%20node-informational?style=for-the-badge&color=4A3677&logo=ts-node">&nbsp;
     <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Nest%20JS-informational?style=for-the-badge&logo=nestjs&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Adonis%20JS-informational?style=for-the-badge&logo=adonisjs&color=4A3677">&nbsp;

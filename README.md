@@ -13,6 +13,12 @@
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=goodreads&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-gRPC-informational?style=for-the-badge&color=4A3677&logo=google">&nbsp;
+    <img src="https://img.shields.io/badge/-Protocol%20Buffers-informational?style=for-the-badge&color=4A3677&logo=ProtonVPN">&nbsp;
+    <img src="https://img.shields.io/badge/-Cassandra-informational?style=for-the-badge&color=4A3677&logo=Apache%20Cassandra">&nbsp;
+    <img src="https://img.shields.io/badge/-Kafka-informational?style=for-the-badge&color=4A3677&logo=Apache%20Kafka">&nbsp;
+    <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;

@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-    <h2>⚡ My Technical Stack ⚡</h2>
+    <h2>⚡ My Technology Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=goodreads&color=4A3677">&nbsp;

@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-Kafka-informational?style=for-the-badge&color=4A3677&logo=Apache%20Kafka">&nbsp;
     <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp;
     <img src="https://img.shields.io/badge/-Amazon%20AWS-informational?style=for-the-badge&color=4A3677&logo=Amazon%20AWS">&nbsp;
+    <img src="https://img.shields.io/badge/-IBM%20Cloud-informational?style=for-the-badge&logo=ibm&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=for-the-badge&color=4A3677&logo=Google%20Cloud">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;

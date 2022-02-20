@@ -8,7 +8,7 @@
     <a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy&langs_count=8" /></a>
 </div>
 <div align="center">
-<a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya43&show_icons=true&hide=issues&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya Hajare's github stats"" /></a> | <a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
+<a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya43&show_icons=true&hide=issues&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya Hajare's github stats"" /></a><a href="https://github.com/aditya43"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya43&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 </div>
 <br>
 <div align="center">

@@ -9,6 +9,7 @@
     <h2>⚡ My Technology Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Blockchain-informational?style=for-the-badge&logo=ethereum&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-informational?style=for-the-badge&logo=hyperledger&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=goodreads&color=4A3677">&nbsp;
@@ -34,7 +35,6 @@
     <img src="https://img.shields.io/badge/-Nest%20JS-informational?style=for-the-badge&logo=nestjs&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Adonis%20JS-informational?style=for-the-badge&logo=adonisjs&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Serverless-informational?style=for-the-badge&logo=serverless&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Argo%20CD-informational?style=for-the-badge&color=4A3677&logo=Argo">&nbsp;

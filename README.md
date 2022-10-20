@@ -9,6 +9,7 @@
     <h2>⚡ My Technology Stack ⚡</h2>
     <p><a href="https://github.com/aditya43">
     <img src="https://img.shields.io/badge/-Go%20Language-informational?style=for-the-badge&logo=go&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-informational?style=for-the-badge&logo=hyperledger&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Gin%20Gonic-informational?style=for-the-badge&logo=goodreads&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-gRPC-informational?style=for-the-badge&color=4A3677&logo=google">&nbsp;
     <img src="https://img.shields.io/badge/-Protocol%20Buffers-informational?style=for-the-badge&color=4A3677&logo=ProtonVPN">&nbsp;

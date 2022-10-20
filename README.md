@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/badge/-gRPC-informational?style=for-the-badge&color=4A3677&logo=google">&nbsp;
     <img src="https://img.shields.io/badge/-Protocol%20Buffers-informational?style=for-the-badge&color=4A3677&logo=ProtonVPN">&nbsp;
     <img src="https://img.shields.io/badge/-Kafka-informational?style=for-the-badge&color=4A3677&logo=Apache%20Kafka">&nbsp;
-    <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp;
+    <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp; 
+    <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-informational?style=for-the-badge&color=4A3677&logo=Microsoft%20Azure">&nbsp;
     <img src="https://img.shields.io/badge/-Amazon%20AWS-informational?style=for-the-badge&color=4A3677&logo=Amazon%20AWS">&nbsp;
     <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=for-the-badge&color=4A3677&logo=Google%20Cloud">&nbsp;
@@ -50,8 +51,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typo3&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-BONGO-informational?style=for-the-badge&logo=monogram&color=4A3677">&nbsp;                                               
+    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;                                             
     <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
@@ -69,8 +69,7 @@
     <img src="https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677">&nbsp; 
-    <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=anaconda&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-tensorflow-informational?style=for-the-badge&logo=tensorflow&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&color=4A3677">&nbsp;

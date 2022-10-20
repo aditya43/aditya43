@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Serverless-informational?style=for-the-badge&logo=serverless&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Argo%20CD-informational?style=for-the-badge&color=4A3677&logo=Argo">&nbsp;
     <img src="https://img.shields.io/badge/-Travis%20CI-informational?style=for-the-badge&logo=travis&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&color=4A3677">&nbsp;

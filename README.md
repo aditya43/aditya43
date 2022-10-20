@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=for-the-badge&color=4A3677&logo=Google%20Cloud">&nbsp;
     <img src="https://img.shields.io/badge/-IBM%20Cloud-informational?style=for-the-badge&logo=ibm&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Terraform-informational?style=for-the-badge&color=4A3677&logo=Terraform">&nbsp;
+    <img src="https://img.shields.io/badge/-Openshift-informational?style=for-the-badge&color=4A3677&logo=redhat">&nbsp;
+    <img src="https://img.shields.io/badge/-Consul-informational?style=for-the-badge&color=4A3677&logo=Consul">&nbsp;
     <img src="https://img.shields.io/badge/-Hedera-informational?style=for-the-badge&color=4A3677&logo=Hedera">&nbsp;
     <img src="https://img.shields.io/badge/-Swagger-informational?style=for-the-badge&color=4A3677&logo=Swagger">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 

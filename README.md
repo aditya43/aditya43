@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/-gRPC-informational?style=for-the-badge&color=4A3677&logo=google">&nbsp;
     <img src="https://img.shields.io/badge/-Protocol%20Buffers-informational?style=for-the-badge&color=4A3677&logo=ProtonVPN">&nbsp;
     <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-Cassandra-informational?style=for-the-badge&color=4A3677&logo=Apache%20Cassandra">&nbsp;
     <img src="https://img.shields.io/badge/-Kafka-informational?style=for-the-badge&color=4A3677&logo=Apache%20Kafka">&nbsp;
     <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp;
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-informational?style=for-the-badge&color=4A3677&logo=Microsoft%20Azure">&nbsp;
@@ -23,6 +22,7 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=for-the-badge&color=4A3677&logo=Google%20Cloud">&nbsp;
     <img src="https://img.shields.io/badge/-IBM%20Cloud-informational?style=for-the-badge&logo=ibm&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Hedera-informational?style=for-the-badge&color=4A3677&logo=Hedera">&nbsp;
+    <img src="https://img.shields.io/badge/-Swagger-informational?style=for-the-badge&color=4A3677&logo=Swagger">&nbsp;
     <img src="https://img.shields.io/badge/-typescript-informational?style=for-the-badge&logo=typescript&color=4A3677">&nbsp; 
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=Nodemon&color=4A3677">&nbsp;
@@ -39,13 +39,16 @@
     <img src="https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monero&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/DynamoDB-informational?style=for-the-badge&logo=dailymotion&color=4A3677">&nbsp;                                       
+    <img src="https://img.shields.io/badge/DynamoDB-informational?style=for-the-badge&logo=dailymotion&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-Cassandra-informational?style=for-the-badge&color=4A3677&logo=Apache%20Cassandra">&nbsp; 
     <img src="https://img.shields.io/badge/MSSQL-informational?style=for-the-badge&logo=sqlite&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typo3&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sellfy&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;                                                   <img src="https://img.shields.io/badge/-BONGO-informational?style=for-the-badge&logo=monogram&color=4A3677">&nbsp;                                               <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-BONGO-informational?style=for-the-badge&logo=monogram&color=4A3677">&nbsp;                                               
+    <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=4A3677">&nbsp;
